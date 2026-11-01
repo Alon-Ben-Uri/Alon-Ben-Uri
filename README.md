@@ -8,12 +8,6 @@ Most recently, during the software engineering program at Infinity Labs R&D, I g
 * **Systems & Tools:** Android Studio, Linux, POSIX, Git, Bash, Makefiles, GDB, Valgrind, Wireshark
 * **Frameworks & Databases:** Pandas, NumPy, OpenGL, PostgreSQL, MySQL, JavaFX.
 
-## 🚀 Featured Projects
-- **Application Watchdog (C, Linux, POSIX):** Developed a watchdog process using POSIX signals, semaphores, and mutexes to monitor application health, leveraging `fork` and `exec` to automatically restart a crashed or frozen application.
-- **Data Mining & ML Prediction (Python, Pandas, NumPy, Jupyter):** Developed machine-learning models for chronic kidney disease prediction using a blood test dataset, including preprocessing, feature selection, and model evaluation.
-- **Full-Stack Android Application (Java, SQL, Android Studio, MySQL):** Designed and implemented a full-stack animal adoption platform, including a client-side Android application and a backend server utilizing MySQL for robust data storage and retrieval.
-- **Algorithmic State-Space Solver (Python):** Engineered an AI solver for the 15-puzzle utilizing search algorithms (A*, Greedy). Audited a standard heuristic model, identified logical flaws, and implemented a custom mathematical correction for optimal pathfinding.
-
 ## 💼 Experience Highlight
 - **Software Engineering Training | Infinity Labs R&D:** Intensive focus on low-level C/C++ development, custom memory allocators, POSIX multithreading, and inter-process communication.
 - **Network Course Coordinator & Team Lead @ Magshimim:** Led teams, mentored instructors, and developed educational guides for complex networking and cybersecurity concepts.
