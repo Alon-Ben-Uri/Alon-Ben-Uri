@@ -8,7 +8,7 @@ Most recently, during the software engineering program at Infinity Labs R&D, I g
 * **Systems & Tools:** Android Studio, Linux, POSIX, Git, Bash, Makefiles, GDB, Valgrind, Wireshark
 * **Frameworks & Databases:** Pandas, NumPy, OpenGL, PostgreSQL, MySQL, JavaFX.
 
-## 💼 Experience Highlight
+## 💼 Experience
 - **Software Engineering Training | Infinity Labs R&D:** Intensive focus on low-level C/C++ development, custom memory allocators, POSIX multithreading, and inter-process communication.
 - **Network Course Coordinator & Team Lead @ Magshimim:** Led teams, mentored instructors, and developed educational guides for complex networking and cybersecurity concepts.
 
